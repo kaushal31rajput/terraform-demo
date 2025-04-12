@@ -8,9 +8,7 @@ on:
         required: true
         type: choice
         options:
-          - production
-          - qa
-          - dev
+          - prod
 
 jobs:
   deploy:
