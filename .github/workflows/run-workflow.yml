@@ -1,4 +1,4 @@
-name: Deploy GCP VM with Terraform (Manual Trigger)
+name: check
 
 on:
   workflow_dispatch:
